@@ -2,5 +2,6 @@ ipywidgets
 matplotlib
 pandas
 datasets
-torch
 transformers
+torch
+tensorflow
