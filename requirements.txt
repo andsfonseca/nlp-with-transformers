@@ -4,4 +4,6 @@ pandas
 datasets
 transformers
 torch
+# If you are using GPU, Install pytorch using the following command:
+# > pip3 install torch --index-url https://download.pytorch.org/whl/cu117
 tensorflow
