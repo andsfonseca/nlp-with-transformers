@@ -1,2 +1,5 @@
 .venv/
 .conda/
+
+# Generated Models from Trainer
+models/
