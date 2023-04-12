@@ -13,6 +13,10 @@ To learn more about the content, consider using the book with the authors own an
 * [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
   > Tunstall, Lewis, Leandro Von Werra, and Thomas Wolf. Natural language processing with transformers. " O'Reilly Media, Inc.", 2022.
+
+* [CARER: Contextualized Affect Representations for Emotion Recognition](http://dx.doi.org/10.18653/v1/D18-1404)
+
+  > Saravia, Elvis, et al. "Carer: Contextualized affect representations for emotion recognition." Proceedings of the 2018 conference on empirical methods in natural language processing. 2018.
  
 * [DistilBERT base uncased distilled SQuAD](https://huggingface.co/distilbert-base-uncased-distilled-squad)
 
