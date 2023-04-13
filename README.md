@@ -8,6 +8,12 @@ This is an adapted version of the algorithms presented in book Natural Language 
 
 To learn more about the content, consider using the book with the authors own annotations.
 
+## Summary
+
+2. [Text Classification](./2-text-classification/text_classification.ipynb)
+   * [One-hot Vectors](./2-text-classification/one_hot_vector.ipynb)
+   * [Text Classification with Tensorflow](./2-text-classification/text_classification_tensorflow.ipynb)
+
 ## References
 
 * [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
@@ -21,6 +27,10 @@ To learn more about the content, consider using the book with the authors own an
 * [DistilBERT base uncased distilled SQuAD](https://huggingface.co/distilbert-base-uncased-distilled-squad)
 
   > Sanh, Victor, et al. "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter." arXiv preprint arXiv:1910.01108 (2019).
+
+* [Umap: Uniform manifold approximation and projection for dimension reduction](https://arxiv.org/abs/1802.03426)
+
+  > McInnes, Leland, John Healy, and James Melville. "Umap: Uniform manifold approximation and projection for dimension reduction." arXiv preprint arXiv:1802.03426 (2018).
   
 ## Issues
 
